@@ -42,6 +42,12 @@ ushio-md-plugins/
         └── icon.png
 ```
 
+## 想制作自己的插件 ？
+
+[查看开发文档](PLUGIN_DEVELOPMENT.md)
+
 ## 许可证
 
 MIT License
+
+## 

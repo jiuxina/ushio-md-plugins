@@ -17,7 +17,7 @@
 
 ## 提交插件
 
-欢迎开发者提交插件！请参阅 [插件开发指南](https://github.com/jiuxina/ushio-md/blob/main/PLUGIN_DEVELOPMENT.md)。
+欢迎开发者提交插件！请参阅 [插件开发指南](PLUGIN_DEVELOPMENT.md)。
 
 ### 提交流程
 
@@ -44,7 +44,7 @@ ushio-md-plugins/
 
 ## 想制作自己的插件 ？
 
-[查看开发文档](PLUGIN_DEVELOPMENT.md)
+也请移步：[插件开发指南](PLUGIN_DEVELOPMENT.md)
 
 ## 许可证
 

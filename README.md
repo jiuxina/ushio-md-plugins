@@ -1,4 +1,4 @@
-# 汐 - 官方插件市场
+# 汐 - 官方插件市场（暂不接受PR）
 
 这是汐（Ushio-MD）Markdown 编辑器的官方插件仓库。
 
@@ -13,7 +13,7 @@
 | 插件名称 | 描述 | 版本 |
 |----------|------|------|
 | GitHub 风格提示框 | NOTE/TIP/WARNING 等提示框 | 1.0.0 |
-| 代码块增强 | 快速插入编程语言代码块 | 1.0.0 |
+|                   |                           |       |
 
 ## 提交插件
 
@@ -37,7 +37,7 @@ ushio-md-plugins/
     ├── github-alerts/
     │   ├── manifest.json
     │   └── icon.png
-    └── code-blocks/
+    └── ******/
         ├── manifest.json
         └── icon.png
 ```
